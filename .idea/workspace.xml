@@ -20,7 +20,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d185b580-1c0f-4838-9522-3d1c4aa38cb0" name="Changes" comment="" />
+    <list default="true" id="d185b580-1c0f-4838-9522-3d1c4aa38cb0" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,6 +34,9 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectApplicationVersion">
     <option name="ide" value="CLion" />
@@ -85,7 +90,7 @@
       <option name="presentableId" value="Default" />
       <updated>1731254230425</updated>
       <workItem from="1731254232860" duration="297000" />
-      <workItem from="1731254642406" duration="351000" />
+      <workItem from="1731254642406" duration="1371000" />
     </task>
     <servers />
   </component>
