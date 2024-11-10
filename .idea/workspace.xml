@@ -10,7 +10,9 @@
     <option name="reloaded" value="true" />
   </component>
   <component name="CMakeRunConfigurationManager">
-    <generated />
+    <generated>
+      <config projectName="Reseau_neurone" targetName="Reseau_neurone" />
+    </generated>
   </component>
   <component name="CMakeSettings">
     <configurations>
@@ -58,6 +60,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -82,7 +85,7 @@
       <option name="presentableId" value="Default" />
       <updated>1731254230425</updated>
       <workItem from="1731254232860" duration="297000" />
-      <workItem from="1731254642406" duration="17000" />
+      <workItem from="1731254642406" duration="351000" />
     </task>
     <servers />
   </component>
